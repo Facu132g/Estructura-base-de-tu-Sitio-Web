@@ -19,7 +19,7 @@ nav ul{
     justify-content: space-between;
     gap: 1rem; /* separación entre links */
     align-items: center;
-    padding: 1rem 1rem;
+    padding: 2rem 1rem;
 }
 
 .puntitos li{
